@@ -419,10 +419,10 @@ void manage_reservations(int seats[], int numSeats, User users[], int numUsers) 
             case 1:
                 display_reservations_status(seats, numSeats, users, numUsers);
                 break;
-            // TODO: 예약 변경 기능 구현
+            // 예약 변경 기능 구현 (예정)
             case 2:
                 break;
-            // TODO: 예약 삭제 기능 구현
+            // 예약 삭제 기능 구현 (예정)
             case 3:
                 break;
             // 돌아가기
